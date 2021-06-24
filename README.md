@@ -1,5 +1,3 @@
-<img align="right" width="350" height="350" src="public/Saly-13.png">
-
 ## Hi there, I'm Caio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About me
@@ -13,7 +11,7 @@
 
 <div>
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
-    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" title="illustrator"/>&ensp;&ensp;
+    <img src="https://img.icons8.com/color/100/000000/adobe-illustrator.png" title="illustrator"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
