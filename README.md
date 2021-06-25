@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/SsOPljBcqivziQdnyn" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sonyanimation-spider-man-spiderverse-spider-verse-SsOPljBcqivziQdnyn">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/SsOPljBcqivziQdnyn/100.webp">
