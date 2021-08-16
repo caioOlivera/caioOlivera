@@ -5,5 +5,7 @@
 - 💻 I'm currenlty learning front-end development, more specifically React and Typescript.
 - 🛠️ I also want to become a Full Stack developer in the near future.
 
+Quick note: In the reporsitory description you can see in wich language the code (variables, functions, folders, files etc.) was written.
+
 ## Contact me
 <a href="https://www.linkedin.com/in/caio-oliveira-6889001bb/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
