@@ -1,8 +1,9 @@
 ## Hi there! 👋
 
-- 🌱 My name is Caio Oliveira and I'm 20 years old.
+- 🌱 My name is Caio Oliveira and I'm 21 years old.
 - 🎓 I'm a Computer Engineer degree student at Universidade Federal de Goias (UFG).
-- 💻 I'm currenlty learning front-end development, more specifically React and Typescript.
+- 💻 I'm a Junior Front-end developer. 
+- 🚀 My preferred technolgies are React, NextJS, Javascript, Typescript, TailwindCSS, Sass, React-testing-library and Jest
 - 🛠️ I also want to become a Full Stack developer in the near future.
 
 Quick note: In the reporsitory description you can see in wich language the code (variables, functions, folders, files etc.) was written.
