@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-- 🌱 My name is Caio Oliveira and I'm 21 years old.
+- 🌱 My name is Caio Oliveira and I'm 23 years old.
 - 🎓 I'm a Computer Engineer degree student at Universidade Federal de Goias (UFG).
-- 💻 I'm a Junior Front-end developer. 
-- 🚀 My preferred technolgies are React, NextJS, Javascript, Typescript, TailwindCSS, Sass, React-testing-library and Jest
-- 🛠️ I also want to become a Full Stack developer in the near future.
+- 💻 I'm a Junior Data Analyst. 
+- 🚀 My preferred technolgies are Python, Numpy, Pandas, scikit-learn, matplotlib, SQL, PostgreSQL.
+- 🛠️ Currently working as a Junior Data Analyst at EasyCredito, using machine learning, critical thinking and analysis to deliver excellent business intelligence reports.
 
 Quick note: In the reporsitory description you can see in wich language the code (variables, functions, folders, files etc.) was written.
 
