@@ -10,3 +10,5 @@ Quick note: In the reporsitory description you can see in wich language the code
 
 ## Contact me
 <a href="https://www.linkedin.com/in/caio-oliveira-6889001bb/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioOlivera&exclude_repo=digital-image-processing-python,computational-intelligence-course-ufg)
